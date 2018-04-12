@@ -2,7 +2,7 @@
 
 ## **Description**
 
-Abstract visuals that respond to sound in real time. Aesthetically, I am interested in exploring glitchy environments that react and transform when exposed to differing frequencies. I am very interested in glitch imagery, which is the practice of using digital or analog errors for aesthetic purposes and in my project, I want to explore and combine these concepts both sonically and visually. In order to do so, I will create a series of algorithmic Glitch and Noise sketches that respond to sound. The sound aesthetics that I have in mind are inspired by ambient electronic music such as Thursday Afternoon by Brian Eno. The project will be both an online application, and one that can be used for a live performance. Images are to be projected on a large-scale screen.
+Abstract visuals that respond to sound in real time. Aesthetically, I am interested in exploring glitchy environments that react and transform when exposed to differing frequencies. Glitch imagery is the practice of using digital or analog errors for aesthetic purposes and in my project, I want to explore and combine these concepts both sonically and visually. In order to do so, I will create a series of algorithmic Glitch and Noise sketches that respond to sound. The sound aesthetics that I have in mind are inspired by ambient electronic music such as Thursday Afternoon by Brian Eno. The project will be both an online application, and one that can be used for a live performance. Images are to be projected on a large-scale screen.
 
 Project falls under: Interactive, Audio Reactive, Live Performance and Calm.
 
